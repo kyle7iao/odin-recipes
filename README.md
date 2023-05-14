@@ -1,4 +1,4 @@
-# odin-recipes
-Recipes Project for TOP
+# Recipe HTML Project
+Recipes Project from The Odin Project.
 
-This project is to get familiar with HTML.
+This is a toy project to get basic familiarity with HTML and CSS. Do not attempt the recipes! I am not sure if the ingredients and instructions are right...
